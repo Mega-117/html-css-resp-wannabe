@@ -91,21 +91,25 @@ query
 
   #lezioni .row>.left,
   #lezioni .row>.right {
-    width: auto;
+    width: 100%;
   }
 
   #steps .row>.left,
   #steps .row>.central,
   #steps .row>.right  {
-    width: auto;  
+    width: 100%;  
   }
 
   #why .row>.first,
   #why .row>.second,
   #why .row>.third  {
-    width: auto;
+    width: 100%;
   }
- 
+  
+  hr{
+    border-color: black;
+  }
+
 }
 
   
